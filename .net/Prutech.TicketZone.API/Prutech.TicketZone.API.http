@@ -1,0 +1,6 @@
+@Prutech.TicketZone.API_HostAddress = http://localhost:5033
+
+GET {{Prutech.TicketZone.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
